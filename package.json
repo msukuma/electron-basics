@@ -1,0 +1,23 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "learning electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msukuma/elementary-electron.git"
+  },
+  "author": "Itenga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msukuma/elementary-electron/issues"
+  },
+  "homepage": "https://github.com/msukuma/elementary-electron#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
