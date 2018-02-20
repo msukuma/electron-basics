@@ -1,7 +1,7 @@
 {
-  "name": "elementary-electron",
+  "name": "electron-basics",
   "version": "1.0.0",
-  "description": "learning electron",
+  "description": "learning electron through elementary-electron",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
